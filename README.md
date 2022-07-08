@@ -2,7 +2,7 @@
 - 👀 We're interested in education, academy ...
 - 🌱 We made academy management programs
 - 💞️ We're looking for headmaster of academy or teachers
-- 📫 How to reach me 02-469-5480
+- 📫 How to reach us 02-469-5480
 
 <!---
 junghyunsoft/junghyunsoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
